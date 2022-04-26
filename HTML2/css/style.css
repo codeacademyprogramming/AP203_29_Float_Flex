@@ -1,0 +1,47 @@
+.bg-1{
+    background-color: aquamarine;
+}
+.bg-2{
+    background-color:blanchedalmond
+}
+.bg-3{
+    background-color:darkkhaki
+}
+.bg-4{
+    background-color:lightcoral
+}
+.bg-5{
+    background-color:olive
+}
+.bg-5{
+    background-color:brown;
+}
+
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    align-content: space-between;
+}
+
+.boxes .box-item{
+    width: 250px;
+    height: 150px;
+}
+
+
+
+.title-box{
+    height: 500px;
+}
+
+.title-box .title{
+
+}
+.education-items{
+
+}
+
+.education-items .item{
+    height: 250px;
+}

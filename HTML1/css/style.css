@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+.boxes{
+
+    
+}
+
+.boxes::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.clear{
+    clear: both;
+}
+
+.boxes .box-item{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.bg-1{
+    background-color: aquamarine;
+}
+.bg-2{
+    background-color:blanchedalmond
+}
+.bg-3{
+    background-color:darkkhaki
+}
+.bg-4{
+    background-color:lightcoral
+}
+.bg-5{
+    background-color:olive
+}
+
+
+#education{
+}
+
+.education-title{
+    height: 400px;
+}
+.education-items{
+
+}
+
+.education-items .item{
+    height: 200px;
+}
